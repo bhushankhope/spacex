@@ -1,0 +1,14 @@
+.main {
+  background: url('./assets/background/bg.svg') no-repeat;
+  height: 58.75rem;
+  width: 98rem;
+}
+
+.console {
+  clip-path: polygon(29% 0%, 71% 0%, 75% 78%, 100% 78%, 100% 100%, 0 100%, 0 78%, 25% 78%);
+  background-color: #1A1C48;
+  bottom: 0;
+  height: 5.625rem;
+  position: absolute;
+  width: 100%;
+}
